@@ -1,6 +1,5 @@
 
 import random
-
 print('Tạo 1 số nguyên ngẫu nhiên n trong khoảng [50, 1000] đóng vai trò là số phần tử của List')
 n = random.randrange(50,1000)
 print('n = ' , n)
